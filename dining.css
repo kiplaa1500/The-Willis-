@@ -55,7 +55,7 @@ a {
     text-align: center;
     box-sizing: border-box;
     height: 2cm;
-    background-color: whitesmoke;
+    background-color: rgb(212, 211, 211);
     font-size: 40px;
     border-radius: 1cm;
 }
